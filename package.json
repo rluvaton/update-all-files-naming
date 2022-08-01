@@ -1,0 +1,16 @@
+{
+  "name": "update-all-files-naming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Raz Luvaton",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^4.1.2",
+    "typescript": "^4.7.4"
+  }
+}
