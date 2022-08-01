@@ -1,5 +1,5 @@
-# Updating all files, directories paths and the TypeScript imports to kebab case
-> If you want different case you can update in the change-case.js file
+# Updating all files, directories paths and the TypeScript imports to `kebab-case`
+> If you want different case you can update in the `change-case.js` file
 
 Usage:
 ```bash
